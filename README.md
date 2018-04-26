@@ -7,4 +7,4 @@ simple ip_grabber written in php
   Create your server and activate php 5.x or later , after this copy your php file into your prefered Directory and Setting it .
   </p>
   
-Powered By :<img src="https://wisdmlabs.com/site/wp-content/uploads/2014/01/php-logo-Converted-01-2.png" width="150" height="150">
+Powered By :<img src="http://pluspng.com/img-png/php-384.png">
