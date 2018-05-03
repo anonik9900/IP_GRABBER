@@ -4,7 +4,7 @@ Test folder contain IP-GRABBER HTML EXAMPLE PAGE.
 Instructions :
 
 
-Put in your Server Root foler (default is "./") all files 
+Put in your Server Root folder (default is "./") all files 
 
 Now rename ip_grabber.php in index.php 
 
